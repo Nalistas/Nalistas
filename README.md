@@ -1,11 +1,13 @@
 <h1 align="center">Hello there ! I am Ambroise JACQUEMET (Aka Nalistas)</h1>
 <h3 align="center">A developer in Epitech interested in all sort of techno.</h3>
 
-- 💬 Ask me about **Python and C**
+- 👨‍💻 All of my projects are available at my other git account [https://github.com/Solype/](https://github.com/Solype/)
 
-- 📫 How to reach me **ambroise.jacquemet-ramirez-vega@epitech.eu**
+- 💬 My favourite programming language are **Python, C and asm**
 
-- ⚡ Fun fact **I love low level programming**
+- 📫 You can contact me **ambroise.jacquemet-ramirez-vega@epitech.eu**
+
+- ⚡ Fun fact **I love low level programming and IA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
